@@ -1,5 +1,5 @@
-# Private vs Public access specifier difference
-# Code by: Nishant Shah
+// Private vs Public access specifier difference
+// Code by: Nishant Shah
 
 #include <iostream>
 
